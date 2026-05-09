@@ -86,6 +86,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="660" as="sourcePoint" />
             <mxPoint x="1010" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="621" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3W-KmRGKL0o30_1MftV-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#fa6800;strokeColor=#FF6B2B;" edge="1" parent="1" target="vhBtB1ZKEO0KRjN-pGOG-7">
