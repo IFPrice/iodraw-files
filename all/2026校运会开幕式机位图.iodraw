@@ -135,6 +135,9 @@
         <mxCell id="C3W-KmRGKL0o30_1MftV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1B0AFF;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1280" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C3W-KmRGKL0o30_1MftV-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
