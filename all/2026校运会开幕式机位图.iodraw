@@ -79,7 +79,7 @@
         <mxCell id="vhBtB1ZKEO0KRjN-pGOG-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;制图人：强智烨&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;fontColor=default;strokeWidth=2;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="1320" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C3W-KmRGKL0o30_1MftV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="C3W-KmRGKL0o30_1MftV-1">
+        <mxCell id="C3W-KmRGKL0o30_1MftV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="C3W-KmRGKL0o30_1MftV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="580" as="targetPoint" />
           </mxGeometry>
